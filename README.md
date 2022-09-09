@@ -1,19 +1,9 @@
 <br />
-<div>
+<div style="display: flex; justify-content: center; align-items: center" id="readme-top">
   <a href="https://github.com/pgs-gmartowski/miser/blob/master/README.md">
     <img src="https://stabsoft.pl/images/stabsoft-logo.png" alt="Logo" width="62" height="65">
   </a>
-
-<h3 align="center">Miser</h3>
-  <p>
-    <a href="https://github.com/pgs-gmartowski/miser/issues"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    ·
-    <a href="https://github.com/pgs-gmartowski/miser/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/pgs-gmartowski/miser/issues">Request Feature</a>
-  </p>
+   <h1>Miser</h1>
 </div>
 
 <details>
@@ -38,7 +28,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://stabsoft.pl)
 
 Simple invoice (.pdf) generator. It is dedicated for Polish taxation system.
 <br />
@@ -53,8 +43,6 @@ Plans - I want to add some extra features to this app, including
 * [React.js][React-url]
 * [MUI.com][MUI-url]
 * [Jestjs.io][Jest-url]
-
-
 <p>(<a href="#readme-top">back to top</a>)</p>
 
 ## Getting Started
@@ -62,7 +50,6 @@ Plans - I want to add some extra features to this app, including
 <!-- ### Prerequisites -->
 
 ### Installation
-
 1. Clone the repo
    ```sh
    git clone https://github.com/pgs-gmartowski/miser.git
@@ -71,21 +58,16 @@ Plans - I want to add some extra features to this app, including
    ```sh
    npm install
    ```
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## License
-
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Contact
-
 Grzegorz Martowski - kontakt@stabsoft.pl
 
 Project Link: [https://github.com/pgs-gmartowski/miser](https://github.com/pgs-gmartowski)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
